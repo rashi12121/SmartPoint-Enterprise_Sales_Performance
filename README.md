@@ -57,7 +57,7 @@ This Power BI solution includes **three interactive report tabs**:
   - Card visual for **Profit %**.
   - **Pareto Chart**: Highlights top-performing products (80/20 rule).
   - Helps track **seasonal performance** and identify high-growth periods.
-> 🖼️ Dashboard
+> 🖼️ Monthly Sales/Profit% Dashboard
 
 ![Monthly Sales/Profit% Dashboard](https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/_SmartPoint%20Monthly%20Sales_Profit.png)
 
@@ -66,7 +66,7 @@ This Power BI solution includes **three interactive report tabs**:
   - **Decomposition Tree**: Analyzes revenue and profit at multiple levels of product hierarchy.
 
   - Enables focused product strategy and inventory planning.
-> 🖼️ Dashboard
+> 🖼️ Sales by Product Hierarchy Dashboard
 
 ![Sales by Product Hierarchy Dashboard](https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/_SmartPoint%20Sales%20by%20Product%20Hierarchy.png)
 
@@ -75,7 +75,7 @@ This Power BI solution includes **three interactive report tabs**:
   - **Map Visualization**: Displays total sales across different **cities and regions**.
   - Highlights high and low performing regions for strategic market development.
 
-> 🖼️ Dashboard
+> 🖼️ Region Dashboard
 
 ![Region Dashboard](https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/_Smartpoint%20Region-wise%20Sales1.png)
 ![Region Dashboard](https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/_Smartpoint%20Region-wise%20Sales2.png)
