@@ -1,5 +1,5 @@
 Sales Table,,,,,,,,,,,,,,,,,
-Company:Nationa Store,,,,,,,,,,,,,,,,,
+Company:Smart Point,,,,,,,,,,,,,,,,,
 Department,,,,,,,,,,,,,,,,,
 Row ID,Order ID,Order Date,Customer ID,Customer Name,Segment,Country,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Customer Rating,Selling Price
 1,RA-2016-152156,11/8/2022,CG-12520,Fresh Mart,Retailer,India,Gwalior,Madhya Pradesh,Central,CETAPHIL-2178451,Beauty & Cosmetics,Skin,Cetaphil Moisturising Cream : 80 gms,12579,21,6,599
