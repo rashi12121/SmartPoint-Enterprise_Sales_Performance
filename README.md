@@ -25,7 +25,8 @@ This project uses three key datasets in `.csv` format:
 - **SmartPoint - DateTable.csv**  
   A date dimension table used for building time intelligence, enhanced with month names, numbers, and years.
 
-📁 **Dataset Link**: [[Insert dataset link here](https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/SmartPoint%20-%20SalesTable.csv)]
+📁 **Dataset Link**: [
+(https://github.com/rashi12121/SmartPoint-Enterprise_Sales_Performance/blob/main/SmartPoint%20-%20SalesTable.csv)]
 
 ---
 
